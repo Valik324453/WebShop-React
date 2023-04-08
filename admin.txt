@@ -1,0 +1,11 @@
+
+https://valik324453.github.io/Diploma/#/admin
+log: admin@mail.com
+pas: adminadmin
+
+Name
+Email
+Address
+Phone
+Password
+Cart
